@@ -39,3 +39,9 @@ ggplot(mydata,aes(x=x,y=y))+
 ```
 
 ![](images/coding_cat-01.gif)
+
+## TIPS
+
+Do not commit the quarto file directory (add to .gitignore file)
+
+To go up a level (if you enter a directory by accident on the git window to the right), you must deselect every file that is staged, then it will automatically go up a level.

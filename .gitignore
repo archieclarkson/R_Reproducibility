@@ -9,6 +9,9 @@ raw-data/*
 #Correction: should actually commit this images/ directory that is created
 #images/
 
+#hide quarto_test_files/ directory
+quarto_test_files/
+
 # History files
 .Rhistory
 .Rapp.history

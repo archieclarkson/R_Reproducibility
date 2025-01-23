@@ -6,7 +6,7 @@
 
 # hide raw data 
 raw-data/*
-images?*
+images/
 
 # History files
 .Rhistory

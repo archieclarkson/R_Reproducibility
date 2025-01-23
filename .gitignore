@@ -1,7 +1,8 @@
-# Omit certain file types (e.g. powerpoint, pdf, word)
+# Omit certain file types (e.g. powerpoint, pdf, word, html)
 *.pptx
 *.pdf
 *.docx
+*.html
 
 # hide raw data 
 raw-data/*

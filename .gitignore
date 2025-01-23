@@ -6,7 +6,8 @@
 
 # hide raw data 
 raw-data/*
-images/
+#Correction: should actually commit this images/ directory that is created
+#images/
 
 # History files
 .Rhistory

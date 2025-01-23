@@ -42,6 +42,6 @@ ggplot(mydata,aes(x=x,y=y))+
 
 ## TIPS
 
-Do not commit the quarto file directory (add to .gitignore file)
+ALWAYS commit the quarto file directory (add to .gitignore file)
 
-To go up a level (if you enter a directory by accident on the git window to the right), you must deselect every file that is staged, then it will automatically go up a level.
+To go up a level (if you enter a directory by accident on the git window to the right), you must use a rare candy or get enough XP from defeating other Pokémon.

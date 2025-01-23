@@ -8,7 +8,9 @@ editor: visual
 
 ## Hello
 
-### Hello
+### Hello you are an R ace!
+
+![doggie smile](https://media.giphy.com/media/yS2AMt4LX13Mc/giphy.gif)
 
 ## Quarto
 
